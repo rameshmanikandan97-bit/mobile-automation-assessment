@@ -1,0 +1,12 @@
+target/
+.idea/
+*.iml
+apps/*.apk
+apps/*.zip
+apps/*.ipa
+
+# Eclipse files
+.classpath
+.project
+.settings/
+bin/
